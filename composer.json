@@ -1,0 +1,17 @@
+{
+    "name": "ysnow/baidu-orc",
+    "description": "baidu orc",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ysnow\\BaiduOcr\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ysnow",
+            "email": "ysnow888@gmail.com"
+        }
+    ],
+    "require": {}
+}
